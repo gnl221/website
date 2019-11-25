@@ -5,10 +5,9 @@ body {
 header {
     color: white;
     text-align: center;
-    font-family: verdana;
+    font-family: verdana, serif;
     font-size: 20px;
-    border: dotted, 20px;
-    border-color: forestgreen;
+    border: 2px dotted black;
     margin: 10px;
     border-radius: 25px;
 }
@@ -18,9 +17,7 @@ h1 {
     text-align: center;
 }
 
-
-}
-p {
-    font-family: verdana;
+h4 {
+    font-family: verdana, serif;
     font-size: 20px;
 }
