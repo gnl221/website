@@ -1,5 +1,8 @@
+
 body {
     background-color: lightblue;
+/*     this is Chris's edit */
+    box-sizing: border-box;
 }
 
 header {
